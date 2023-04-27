@@ -1,7 +1,7 @@
 {
-	"name": "minecraft-server-util",
-	"version": "5.4.3",
-	"description": "A Node.js library for Minecraft servers that can retrieve status, perform queries, and RCON into servers.",
+	"name": "mc-server-utilities",
+	"version": "5.4.4",
+	"description": "A fork With fixes of minecraft-server-util library",
 	"main": "dist/index.js",
 	"typings": "dist/index.d.ts",
 	"scripts": {
@@ -23,6 +23,9 @@
 		"votifier"
 	],
 	"author": "Jacob Gunther",
+	"contributors": [
+		"Giuseppe Corsino"
+	],
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^17.0.2",
